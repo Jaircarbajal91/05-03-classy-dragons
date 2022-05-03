@@ -13,7 +13,7 @@ class FriendlyDragon extends Dragon {
   }
 
   helpsPeople() {
-
+    return `${this.name} helps their friend ${this.friend}`
   }
 }
 

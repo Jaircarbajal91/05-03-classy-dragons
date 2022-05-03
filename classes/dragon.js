@@ -15,7 +15,7 @@ class Dragon {
     //comes in as [object1, object2]
     //iterate through the array
     //access the keyvalue pair, to grab the name.
-    
+
   }
 }
 

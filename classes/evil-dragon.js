@@ -19,6 +19,4 @@ class EvilDragon extends Dragon{
 
 }
 
-module.exports = {
-    EvilDragon
-}
+module.exports = EvilDragon

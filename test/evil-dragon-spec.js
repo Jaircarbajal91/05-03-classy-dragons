@@ -6,8 +6,8 @@ const sinon = require("sinon");
 const { fileContainsClass } = require("./helpers");
 
 const phaseModulePath = "../classes/evil-dragon.js";
-// const EvilDragon = require(phaseModulePath);
-const {EvilDragon} = require(phaseModulePath)
+const EvilDragon = require(phaseModulePath);
+// const {EvilDragon} = require(phaseModulePath)
 
 
 const filePath = path.resolve(__dirname, phaseModulePath);
